@@ -24,10 +24,10 @@ urls:
 
 # Edit Author details (For multi authors check _data/authors.yml)
 
-author_logo: profile.png
-author: John Doe
-author_bio: Hi, my name is John Doe. I built this site using devlopr-jekyll :D
-author_email: "mail@sujaykundu.com"
+author_logo: profile.jpg
+author: 성기인
+author_bio: 안녕하세요!! 4년차 웹 개발자 성기인입니다.
+author_email: "giin9879@gmail.com"
 author_location: India
 author_website_url: "https://sujaykundu.com"
 typewrite-text: devlopr is a jekyll framework built for developers. You can edit this in _config.yml file
@@ -35,17 +35,17 @@ hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg.
 
 # Experiences
 author_work_experiences:
-            - company_name: Google
-              company_logo: google.png
-              company_url: https://google.com
-              designation: Software Engineer
-              description: Worked on various Google Products
+            - company_name: (주)아라인
+              company_logo: 아라인로고.png
+              company_url: https://home.arainhr.com/
+              designation: Web Developer
+              description: 클라우드 기반의 인사관리 시스템 개발
               visibility: true
-            - company_name: Microsoft
-              company_logo: microsoft.png
-              company_url: https://microsoft.com
-              designation: Azure Developer
-              description: Worked on various Azure Cloud Products
+            - company_name: (주)에스티
+              company_logo: 에스티로고.gif
+              company_url: https://www.st-tech.org/
+              designation: Web Developer
+              description: 더존 인사/근태 커스터마이징
               visibility: true
 
 # Education
